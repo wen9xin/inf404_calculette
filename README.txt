@@ -3,7 +3,7 @@
 # Function:
 Une calculatrice qui peut effectuer des calculs d'affectation, et il aussi peut effectuer "if- then-else"
 
-# Usage:
+# Mode d'emploi:
 $ make
 $./calculette entreeText.txt
 
