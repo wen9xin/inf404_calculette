@@ -35,4 +35,4 @@ $./calculette entreeText.txt
 └── cor1.txt/coe2.txt              //ficher enteree
 
 # Licences
-
+MIT License
