@@ -1,0 +1,8 @@
+X=5;Y=1;Z=10;
+if X<3 then
+X=X+1;
+Z=7;
+else
+Y=Y*2 ;
+Z=X-Y;
+fi;

@@ -1,0 +1,2 @@
+
+void analyser(char* nomFichier) ;
